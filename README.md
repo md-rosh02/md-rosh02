@@ -17,7 +17,7 @@
 <table>
   <tr>
     <td valign="center">
-    <img align="right" alt="Coding" width=300 padding-bottom:100px src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    <img align="right" alt="Coding" width=300 height=280 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science & Engineering**.
 
