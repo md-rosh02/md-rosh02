@@ -1,7 +1,7 @@
 <header style=text-align:center;">
     <div style="text-align: center;">
         <a href="https://giphy.com" target="blank">
-            <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+            <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
         </a>
     </div>
 </header>
@@ -17,6 +17,7 @@
 <table>
   <tr>
     <td valign="center">
+    <img align="right" alt="Coding" width=300 padding-bottom:100px src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science & Engineering**.
 
