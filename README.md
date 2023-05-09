@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td valign="center">
-    <img align="right" alt="Coding" width=265 margin-left:200px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3MjFmOWJhYWI5MGVmMTM1MTEwMmYyYzFlYWVmOTU3NmRiMWVhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2HPaJKK1AuGwLUAzX2/giphy.gif">
+    <img align="right" alt="Coding" width=265 vertical-align: middle; margin-top: -20px src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmM3MjFmOWJhYWI5MGVmMTM1MTEwMmYyYzFlYWVmOTU3NmRiMWVhOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2HPaJKK1AuGwLUAzX2/giphy.gif">
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science & Engineering**.
 
