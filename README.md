@@ -32,7 +32,7 @@
   <a href="https://twitter.com/md_roshan02" target="blank"><img src="https://img.icons8.com/color/35/000000/twitter--v2.png"/></a>
   <a href="https://www.linkedin.com/in/mohammed-roshan-urf-ajeez-42a91a25b/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
   <a href="https://www.instagram.com/_iam_rosh/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-  <a href="https://discord.com/users/Captain Nemo#8119" target="blank" style="display: inline-block; vertical-align: middle; margin-top: -20px;"><img src="https://svgshare.com/i/stF.svg" height="35px" width="35px"></a>
+  <a href="https://discord.com/users/roshan765#6396" target="blank" style="display: inline-block; vertical-align: middle; margin-top: -20px;"><img src="https://svgshare.com/i/stF.svg" height="35px" width="35px"></a>
 </p>
 
 ## Virtual Vault 🪄
