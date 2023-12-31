@@ -1,4 +1,4 @@
-![Banner GitHub]([https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c629edb3-daaa-4661-9613-5bd3415a3b85](https://images.app.goo.gl/SPHYKM1jC6QEc1vw8))
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 # Hi, I'm Mohammed Roshan 👋🏼
 
