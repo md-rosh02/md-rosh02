@@ -14,7 +14,7 @@
       
 🎓 I am currently pursuing my **Bachelor's in Computer Science & Engineering**.
 
-🌱 I am currently learning **C++ , HTML & CSS** and also interested in **Competative Programming ,Andriod Development & Web Development**
+🌱 I am currently learning **C++ , HTML,CSS,JS,React,PHP & SQL** and also interested in **Competative Programming ,Andriod Development & Web Development**
 
 <!--💬 Ask me about **Artifical Intelligence** -->
 
