@@ -50,7 +50,7 @@
 <img src="https://img.icons8.com/color/35/000000/html-5--v1.png"/> 
 <img src="https://img.icons8.com/color/35/000000/css3.png"/>
 <img src="https://img.icons8.com/color/35/000000/javascript--v1.png"/> 
-<a href='https://www.linkpicture.com/view.php?img=LPic6457ec243897f341289717'><img src='https://www.linkpicture.com/q/da1s62v-ac3195d6-a762-405f-9afe-44134af90e2c.png'style="display: inline-block; vertical-align: middle; margin-top:-25px;"   height="30px" width="30px"</a>
+
 
 
 
