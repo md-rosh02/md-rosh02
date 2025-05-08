@@ -2,7 +2,7 @@
 
 # I Code. I Build. I Innovate.
 # Good at everything, making cool things happen!
-🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studied Computer Science and Engineering at RTE Society’s Rural Engineering College, Hulkoti, Gadag<br>👨🏼‍💻 Web Developer & Open Source Contributor <br> <span style="font-family: 'JetBrains Mono', monospace;">
+🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studied Computer Science and Engineering at RTE Society’s Rural Engineering College, Hulkoti, Gadag<br> <span style="font-family: 'JetBrains Mono', monospace;">
 🎓 Graduated.
 </span>
 
