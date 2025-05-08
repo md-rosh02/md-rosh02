@@ -3,7 +3,7 @@
 # I Code. I Build. I Innovate.
 # Hi, I’m Mohammed Roshan, a Web/Software Developer Pushing Boundaries!
 🛜 Currently working on my own webpage<br>👨🏼‍🎓 Studying Computer Science and Engineering at RTE Society’s Rural Engineering College, Hulkoti, Gadag<br>👨🏼‍💻 Web Developer & Open Source Contributor <br> <span style="font-family: 'JetBrains Mono', monospace;">
-🎓 Graduating in 24 hours.
+🎓 Graduated.
 </span>
 
 
