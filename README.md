@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:11151C,100:0A0E14&height=200&section=header&text=MOHAMMED%20ROSHAN&fontSize=44&fontColor=E8E8E8&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20(MERN)%20%E2%80%94%20Bengaluru%2C%20India&descAlignY=62&descSize=16&descColor=5b7cfa"/>
+<img src="header.jpg"/>
 
 <br/>
 
