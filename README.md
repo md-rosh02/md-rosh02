@@ -1,7 +1,6 @@
 
 <div align="center">
-<img src="ROSHAN (1).gif" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:1a1030,100:0A0E14&height=200&section=header&text=MOHAMMED%20ROSHAN&fontSize=44&fontColor=E8E8E8&fontAlignY=42&animation=fadeIn&desc=Full%20Stack%20Developer%20(MERN)%20%E2%80%A2%20Bengaluru%2C%20India&descAlignY=62&descSize=16&descColor=5b7cfa"/>
+<img src="ROSHAN (2).gif" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=5B7CFA&center=true&vCenter=true&width=650&lines=roshan%40fullstack-dev%3A~%24+cat+about.md;Building+with+MongoDB%2C+Express%2C+React%2C+Node;150%2B+DSA+problems+solved+on+LeetCode+%26+GFG;Currently+open+to+Frontend+%2F+Full+Stack+roles" alt="Typing SVG"/>
