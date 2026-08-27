@@ -1,6 +1,5 @@
 
-<div align="center">
-<img src="ROSHAN (2).gif" />
+<div align="center"
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=5B7CFA&center=true&vCenter=true&width=650&lines=roshan%40fullstack-dev%3A~%24+cat+about.md;Building+with+MongoDB%2C+Express%2C+React%2C+Node;150%2B+DSA+problems+solved+on+LeetCode+%26+GFG;Currently+open+to+Frontend+%2F+Full+Stack+roles" alt="Typing SVG"/>
