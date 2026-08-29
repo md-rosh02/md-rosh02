@@ -1,0 +1,20 @@
+<svg width="1000" height="290" viewBox="0 0 1000 290" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1000" height="290" rx="10" fill="#0A0A0F"/>
+  <rect x="1" y="1" width="998" height="288" rx="9" fill="none" stroke="#D4AF37" stroke-opacity="0.25" stroke-width="1"/>
+
+  <line x1="60" y1="45" x2="60" y2="255" stroke="#D4AF37" stroke-opacity="0.4" stroke-width="1"/>
+
+  <circle cx="60" cy="55" r="5" fill="#0A0A0F" stroke="#D4AF37" stroke-width="1.5"/>
+  <text x="90" y="50" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#9C97A8">SEP 2024 &#8211; FEB 2025 &#183; BENGALURU</text>
+  <text x="90" y="74" font-family="Georgia, serif" font-size="19" fill="#E8C766">Software Engineering Intern &#8212; AI &amp; Backend</text>
+  <text x="90" y="95" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#9C97A8">Rooman Technologies (IBM Partnership)</text>
+  <text x="90" y="118" font-family="Georgia, serif" font-size="13.5" fill="#D8D3E0">Integrated ML models into a Node.js backend for live inference,</text>
+  <text x="90" y="138" font-family="Georgia, serif" font-size="13.5" fill="#D8D3E0">built CI/CD pipelines with GitHub Actions, wrote unit tests.</text>
+
+  <circle cx="60" cy="185" r="5" fill="#0A0A0F" stroke="#D4AF37" stroke-width="1.5"/>
+  <text x="90" y="180" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#9C97A8">OCT 2023 &#8211; NOV 2023 &#183; BENGALURU</text>
+  <text x="90" y="204" font-family="Georgia, serif" font-size="19" fill="#E8C766">Web Development Intern</text>
+  <text x="90" y="225" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#9C97A8">Tech Fortune Technologies</text>
+  <text x="90" y="248" font-family="Georgia, serif" font-size="13.5" fill="#D8D3E0">Built reusable AngularJS components, JWT-secured REST APIs,</text>
+  <text x="90" y="268" font-family="Georgia, serif" font-size="13.5" fill="#D8D3E0">and optimized MongoDB queries with targeted indexing.</text>
+</svg>

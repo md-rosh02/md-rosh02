@@ -1,0 +1,25 @@
+<svg width="600" height="230" viewBox="0 0 600 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0F"/>
+      <stop offset="100%" stop-color="#150E22"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="230" rx="10" fill="url(#bg)"/>
+  <rect x="1" y="1" width="598" height="228" rx="9" fill="none" stroke="#D4AF37" stroke-opacity="0.3" stroke-width="1"/>
+  <path d="M24,24 L24,42 M24,24 L42,24" stroke="#D4AF37" stroke-width="1.2" fill="none" opacity="0.85"/>
+  <path d="M576,206 L576,188 M576,206 L558,206" stroke="#D4AF37" stroke-width="1.2" fill="none" opacity="0.85"/>
+
+  <text x="30" y="45" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="3" fill="#9C97A8">PLATE I</text>
+  <text x="570" y="45" text-anchor="end" font-family="Helvetica Neue, Arial, sans-serif" font-size="11" letter-spacing="1.5" fill="#D4AF37">VIEW &#8599;</text>
+
+  <text x="30" y="92" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#E8C766">LexAI</text>
+
+  <text x="30" y="123" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#D8D3E0">AI-powered Q&amp;A for Indian legal documents &#8212;</text>
+  <text x="30" y="143" font-family="Helvetica Neue, Arial, sans-serif" font-size="13" fill="#D8D3E0">hybrid BM25 + ChromaDB retrieval, fused via RRF.</text>
+
+  <line x1="30" y1="169" x2="570" y2="169" stroke="#D4AF37" stroke-opacity="0.25" stroke-width="1"/>
+
+  <text x="30" y="192" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#9C97A8">MEDIUM</text>
+  <text x="30" y="211" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#D4AF37">FastAPI &#183; ChromaDB &#183; Gemini API &#183; React Native</text>
+</svg>
