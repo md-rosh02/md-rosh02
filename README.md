@@ -68,12 +68,9 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 ## In Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=md-rosh02&show_icons=true&hide_border=false&border_color=D4AF37&bg_color=0A0A0F&title_color=D4AF37&icon_color=D4AF37&text_color=F0EDE4&ring_color=D4AF37" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-rosh02&layout=compact&hide_border=false&border_color=D4AF37&bg_color=0A0A0F&title_color=D4AF37&text_color=F0EDE4" width="46%"/>
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=md-rosh02&theme=dark&background=0A0A0F&border=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideNums=F0EDE4&sideLabels=F0EDE4&dates=6B6478" width="70%"/>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /> </picture>
+
 </div>
 
 <br/>
