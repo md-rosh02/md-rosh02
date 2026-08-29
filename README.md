@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.svg" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 </div>
 
 <br/>
@@ -18,25 +18,25 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## The Work
 
 <table width="100%" cellspacing="12">
 <tr>
 <td width="50%">
-<a href="https://github.com/md-rosh02/lexai"><img src="./assets/plate-lexai.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/lexai"><img src="./plate-lexai.svg" width="100%"/></a>
 </td>
 <td width="50%">
-<a href="https://github.com/md-rosh02/sachcha"><img src="./assets/plate-sachcha.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/sachcha"><img src="./plate-sachcha.svg" width="100%"/></a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/md-rosh02/laborloom"><img src="./assets/plate-laborloom.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/laborloom"><img src="./plate-laborloom.svg" width="100%"/></a>
 </td>
 <td width="50%">
-<a href="https://github.com/md-rosh02/codereview-ai"><img src="./assets/plate-codereview.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/codereview-ai"><img src="./plate-codereview.svg" width="100%"/></a>
 </td>
 </tr>
 </table>
@@ -47,23 +47,23 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Stack
 
-<img src="./assets/stack.svg" width="100%"/>
+<img src="./stack.svg" width="100%"/>
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## Experience
 
-<img src="./assets/experience.svg" width="100%"/>
+<img src="./experience.svg" width="100%"/>
 
 <br/>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./divider.svg" width="100%"/></div>
 
 ## In Numbers
 
@@ -78,7 +78,7 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 
 <br/>
 
-<img src="./assets/footer.svg" width="100%"/>
+<img src="./footer.svg" width="100%"/>
 
 <div align="center">
 
