@@ -25,10 +25,10 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 <table width="100%" cellspacing="12">
 <tr>
 <td width="50%">
-<a href="https://github.com/md-rosh02/lexai"><img src="./plate-lexai.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/lexai"><img src="./plate-threadco.svg" width="100%"/></a>
 </td>
 <td width="50%">
-<a href="https://github.com/md-rosh02/sachcha"><img src="./plate-sachcha.svg" width="100%"/></a>
+<a href="https://github.com/md-rosh02/sachcha"><img src="./plate-chess.svg" width="100%"/></a>
 </td>
 </tr>
 <tr>
