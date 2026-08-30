@@ -1,0 +1,36 @@
+<svg width="1000" height="290" viewBox="0 0 1000 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glowFx" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891B2"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="290" rx="10" fill="#FAFAF8"/>
+  <rect x="1" y="1" width="998" height="288" rx="9" fill="none" stroke="#7C3AED" stroke-opacity="0.3" stroke-width="1"/>
+
+  <line x1="60" y1="45" x2="60" y2="255" stroke="#7C3AED" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="210" stroke-dashoffset="210">
+    <animate attributeName="stroke-dashoffset" from="210" to="0" dur="1.6s" fill="freeze"/>
+  </line>
+
+  <circle cx="60" cy="55" r="5" fill="#FAFAF8" stroke="#7C3AED" stroke-width="1.5" filter="url(#glowFx)">
+    <animate attributeName="r" values="4;6;4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="50" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#6E6E6E">SEP 2024 &#8211; FEB 2025 &#183; BENGALURU</text>
+  <text x="90" y="74" font-family="Georgia, serif" font-size="19" fill="url(#titleGrad)" filter="url(#glowFx)">Software Engineering Intern &#8212; AI &amp; Backend</text>
+  <text x="90" y="95" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#6E6E6E">Rooman Technologies (IBM Partnership)</text>
+  <text x="90" y="118" font-family="Georgia, serif" font-size="13.5" fill="#2E2E2E">Integrated ML models into a Node.js backend for live inference,</text>
+  <text x="90" y="138" font-family="Georgia, serif" font-size="13.5" fill="#2E2E2E">built CI/CD pipelines with GitHub Actions, wrote unit tests.</text>
+
+  <circle cx="60" cy="185" r="5" fill="#FAFAF8" stroke="#7C3AED" stroke-width="1.5" filter="url(#glowFx)">
+    <animate attributeName="r" values="4;6;4" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <text x="90" y="180" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="2" fill="#6E6E6E">OCT 2023 &#8211; NOV 2023 &#183; BENGALURU</text>
+  <text x="90" y="204" font-family="Georgia, serif" font-size="19" fill="url(#titleGrad)" filter="url(#glowFx)">Web Development Intern</text>
+  <text x="90" y="225" font-family="Helvetica Neue, Arial, sans-serif" font-size="12.5" fill="#6E6E6E">Tech Fortune Technologies</text>
+  <text x="90" y="248" font-family="Georgia, serif" font-size="13.5" fill="#2E2E2E">Built reusable AngularJS components, JWT-secured REST APIs,</text>
+  <text x="90" y="268" font-family="Georgia, serif" font-size="13.5" fill="#2E2E2E">and optimized MongoDB queries with targeted indexing.</text>
+</svg>

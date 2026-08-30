@@ -1,0 +1,23 @@
+<svg width="1000" height="160" viewBox="0 0 1000 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="glowFx" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3FF"/>
+      <stop offset="100%" stop-color="#C026FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="160" fill="#0A0A0A"/>
+  <line x1="0" y1="40" x2="430" y2="40" stroke="#22D3FF" stroke-opacity="0.4" stroke-width="1"/>
+  <line x1="570" y1="40" x2="1000" y2="40" stroke="#22D3FF" stroke-opacity="0.4" stroke-width="1"/>
+  <circle cx="500" cy="40" r="28" fill="none" stroke="#22D3FF" stroke-width="1" filter="url(#glowFx)">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <text x="500" y="48" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="url(#titleGrad)" filter="url(#glowFx)">MR</text>
+
+  <text x="500" y="100" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="15" fill="#C7C7C7">&#8220;Clean code is a love letter to your future self.&#8221;</text>
+
+  <text x="500" y="135" text-anchor="middle" font-family="Helvetica Neue, Arial, sans-serif" font-size="10" letter-spacing="4" fill="#8A8A8A">MOHAMMED ROSHAN &#8212; 2026</text>
+</svg>
