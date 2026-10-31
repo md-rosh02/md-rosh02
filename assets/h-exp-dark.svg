@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" fill="none">
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
+.pl{animation:pulse 2s ease-in-out infinite}
+.bob{animation:bob 5s ease-in-out infinite}
+
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8A9FF"/><stop offset="1" stop-color="#FFB4A2"/></linearGradient></defs><rect x="4" y="14" width="6" height="34" rx="3" fill="url(#g)"/><text x="26" y="34" font-size="26" font-weight="800" fill="#EDEDF7" letter-spacing="-.5">Experience &amp; Education</text><text class="m" x="26" y="54" font-size="12" fill="#8E91AE">where I've learned and shipped</text><path class="tw" d="M870,23 Q870,32 879,32 Q870,32 870,41 Q870,32 861,32 Q870,32 870,23Z" fill="#FFB4A2" opacity="0.9"/><path class="tw2" d="M846,15 Q846,20 851,20 Q846,20 846,25 Q846,20 841,20 Q846,20 846,15Z" fill="#B8A9FF" opacity="0.8"/></svg>

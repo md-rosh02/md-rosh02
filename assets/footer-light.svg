@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="170" viewBox="0 0 900 170" fill="none">
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
+.pl{animation:pulse 2s ease-in-out infinite}
+.bob{animation:bob 5s ease-in-out infinite}
+
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7B68EE"/><stop offset="1" stop-color="#F08A7A"/></linearGradient><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#F08A7A" stop-opacity=".35"/><stop offset="1" stop-color="#7B68EE" stop-opacity=".35"/></linearGradient>
+<clipPath id="cp"><rect width="900" height="170" rx="28"/></clipPath></defs>
+<g clip-path="url(#cp)"><rect width="900" height="170" fill="#F3EFFF"/>
+<path d="M0 100 C150 60 300 140 450 100 S750 60 900 100 V170 H0Z" fill="url(#w)"/>
+<path d="M0 124 C180 90 330 160 520 122 S780 96 900 126 V170 H0Z" fill="url(#w)" opacity=".7"/></g>
+<rect x=".5" y=".5" width="899" height="169" rx="28" stroke="#E4DEF7"/>
+<text x="450" y="62" text-anchor="middle" font-size="26" font-weight="800" fill="url(#g)" letter-spacing="-.4">Thanks for stopping by</text>
+<text x="450" y="90" text-anchor="middle" font-size="14" fill="#6C6E8C">Let's build something good together.</text><path class="tw" d="M190,48 Q190,58 200,58 Q190,58 190,68 Q190,58 180,58 Q190,58 190,48Z" fill="#F08A7A" opacity="0.9"/><path class="tw2" d="M712,44 Q712,52 720,52 Q712,52 712,60 Q712,52 704,52 Q712,52 712,44Z" fill="#7B68EE" opacity="0.9"/><path class="tw2" d="M150,83 Q150,88 155,88 Q150,88 150,93 Q150,88 145,88 Q150,88 150,83Z" fill="#7B68EE" opacity="0.7"/><path class="tw" d="M752,80 Q752,86 758,86 Q752,86 752,92 Q752,86 746,86 Q752,86 752,80Z" fill="#F08A7A" opacity="0.8"/></svg>

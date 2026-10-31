@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" fill="none">
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
+.pl{animation:pulse 2s ease-in-out infinite}
+.bob{animation:bob 5s ease-in-out infinite}
+
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8A9FF"/><stop offset="1" stop-color="#FFB4A2"/></linearGradient><linearGradient id="gv" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#B8A9FF"/><stop offset="1" stop-color="#FFB4A2"/></linearGradient>
+<filter id="b" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="55"/></filter>
+<clipPath id="cp"><rect width="900" height="300" rx="28"/></clipPath>
+<pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#2B2D45"/></pattern></defs>
+<g clip-path="url(#cp)">
+<rect width="900" height="300" fill="#12121C"/>
+<rect width="900" height="300" fill="url(#dots)" opacity=".7"/>
+<circle cx="760" cy="40" r="150" fill="#B8A9FF" opacity="0.38" filter="url(#b)"/>
+<circle cx="90" cy="290" r="140" fill="#FFB4A2" opacity="0.28" filter="url(#b)"/>
+</g>
+<rect x=".5" y=".5" width="899" height="299" rx="28" stroke="#2B2D45"/>
+<text class="m" x="56" y="72" font-size="13" fill="#8E91AE">~/roshan <tspan fill="#B8A9FF">$</tspan> hello, world</text>
+<text x="54" y="144" font-size="46" font-weight="800" fill="url(#g)" letter-spacing="-1">Mohammed Roshan</text>
+<text x="56" y="184" font-size="20" fill="#EDEDF7" font-weight="500">Full Stack Developer</text>
+<text x="56" y="210" font-size="14.5" fill="#8E91AE">MERN  ·  Python / FastAPI  ·  LLM APIs  ·  clean, production-style code</text><rect x="56" y="236" width="137" height="26" rx="13.0" fill="#222440" stroke="#2B2D45"/><text x="124.5" y="253.0" text-anchor="middle" font-size="12" fill="#EDEDF7" font-weight="500">Bengaluru, India</text><rect x="203" y="236" width="292" height="26" rx="13" fill="#262749" stroke="#2B2D45"/><circle class="pl" cx="219" cy="249" r="4" fill="#8EE0B0"/><text x="231" y="253" font-size="12" fill="#EDEDF7" font-weight="500">Open to Frontend / Full Stack roles</text><g class="bob">
+<rect x="612" y="70" width="232" height="156" rx="16" fill="#1A1B2B" stroke="#2B2D45"/>
+<rect x="612" y="70" width="232" height="32" rx="16" fill="#262749"/><rect x="612" y="86" width="232" height="16" fill="#262749"/>
+<circle cx="632" cy="86" r="5" fill="#FFB4A2"/><circle cx="648" cy="86" r="5" fill="#B8A9FF"/><circle cx="664" cy="86" r="5" fill="#8EE0B0"/>
+<rect x="632" y="118" width="54" height="8" rx="4" fill="#B8A9FF"/><rect x="694" y="118" width="86" height="8" rx="4" fill="#2B2D45"/>
+<rect x="648" y="138" width="96" height="8" rx="4" fill="#FFB4A2" opacity=".9"/><rect x="752" y="138" width="40" height="8" rx="4" fill="#2B2D45"/>
+<rect x="648" y="158" width="62" height="8" rx="4" fill="#2B2D45"/><rect x="718" y="158" width="70" height="8" rx="4" fill="#B8A9FF" opacity=".7"/>
+<rect x="632" y="178" width="110" height="8" rx="4" fill="#2B2D45"/>
+<rect x="632" y="198" width="9" height="14" rx="2" fill="#B8A9FF" class="pl"/>
+</g><path class="tw" d="M584,49 Q584,62 597,62 Q584,62 584,75 Q584,62 571,62 Q584,62 584,49Z" fill="#FFB4A2" opacity="0.95"/><path class="tw2" d="M866,39 Q866,48 875,48 Q866,48 866,57 Q866,48 857,48 Q866,48 866,39Z" fill="#B8A9FF" opacity="0.9"/><path class="tw" d="M860,250 Q860,262 872,262 Q860,262 860,274 Q860,262 848,262 Q860,262 860,250Z" fill="#B8A9FF" opacity="0.8"/><path class="tw2" d="M596,259 Q596,266 603,266 Q596,266 596,273 Q596,266 589,266 Q596,266 596,259Z" fill="#FFB4A2" opacity="0.8"/></svg>
