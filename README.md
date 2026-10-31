@@ -14,7 +14,11 @@ I build products end to end, from database schema to deployed UI, with clean, pr
 
 B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hulkoti, Gadag. Currently looking for a **Frontend / Full Stack Developer** role.
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" width="100%" alt=""/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
@@ -65,7 +69,11 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 </tr>
 </table>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" width="100%" alt=""/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-stack-dark.svg">
@@ -76,10 +84,14 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img src="./assets/stack-dark.svg" width="100%" alt="Stack"/>
+  <img src="./assets/stack-dark.svg" width="100%" alt="Tech stack constellation map"/>
 </picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" width="100%" alt=""/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-exp-dark.svg">
@@ -93,7 +105,11 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
   <img src="./assets/experience-dark.svg" width="100%" alt="Experience"/>
 </picture>
 
-<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg">
+  <img src="./assets/divider-dark.svg" width="100%" alt=""/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-num-dark.svg">
@@ -119,7 +135,7 @@ B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hu
 
 [![GitHub](https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rosh02)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-roshan02)
-[![Email](https://img.shields.io/badge/Email-F08A7A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedajeez2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F08A7A?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-portfolio-topaz-eta.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-F2A100?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedajeez2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F2A100?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-portfolio-topaz-eta.vercel.app/)
 
 </div>
