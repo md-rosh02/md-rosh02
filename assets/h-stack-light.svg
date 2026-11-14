@@ -1,21 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="66" viewBox="0 0 900 66" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" fill="none">
 <style>
 text{font-family:Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-@keyframes blink{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.1)}}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
-@keyframes steam{0%{opacity:0;transform:translateY(8px)}40%{opacity:.9}100%{opacity:0;transform:translateY(-12px)}}
-@keyframes sway{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
-@keyframes floaty{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-5px) rotate(8deg)}}
-.bob{animation:bob 5s ease-in-out infinite}
-.eye{animation:blink 5s infinite;transform-box:fill-box;transform-origin:center}
-.pl{animation:pulse 2s ease-in-out infinite}
-.st1{animation:steam 3s ease-in-out infinite} .st2{animation:steam 3s ease-in-out infinite .9s} .st3{animation:steam 3s ease-in-out infinite 1.8s}
-.sway{animation:sway 4s ease-in-out infinite;transform-box:fill-box;transform-origin:50% 100%}
-.fl{animation:floaty 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-.fl2{animation:floaty 6.5s ease-in-out infinite 1s;transform-box:fill-box;transform-origin:center}
+@keyframes ember{0%{transform:translateY(0);opacity:0}15%{opacity:.9}100%{transform:translateY(-120px);opacity:0}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
+@keyframes slash{0%{stroke-dashoffset:300;opacity:1}12%{stroke-dashoffset:0;opacity:1}30%{stroke-dashoffset:0;opacity:0}100%{stroke-dashoffset:0;opacity:0}}
+.ember{animation:ember 5s linear infinite} .pl{animation:pulse 1.6s ease-in-out infinite}
+.br{animation:breathe 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.slash{animation:slash 7s ease-out infinite}
 
 </style>
-<defs><filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="34"/></filter>
-<filter id="soft" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="9"/></filter>
-<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6C5CFF"/><stop offset=".55" stop-color="#FF6F91"/><stop offset="1" stop-color="#FF9E5E"/></linearGradient><linearGradient id="nb" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7A67F5"/><stop offset="1" stop-color="#F5688B"/></linearGradient></defs><rect x="6" y="14" width="48" height="34" rx="12" fill="url(#nb)"/><text class="m" x="30" y="36" text-anchor="middle" font-size="14" font-weight="800" fill="#FFFFFF">02</text><text x="70" y="40" font-size="28" font-weight="800" fill="#2A2447" letter-spacing="-.6">Tech Stack</text><text class="m" x="894" y="38" text-anchor="end" font-size="12" fill="#6F6A8F" letter-spacing=".5">tools I reach for</text><path d="M72,54 q5.0,-4.545454545454545 10,0 t10,0 t10,0 t10,0 t10,0 t10,0" stroke="#F5688B" stroke-width="2.6" stroke-linecap="round" fill="none"/></svg>
+<defs><pattern id="ht" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="1.9" fill="#E5122B" fill-opacity=".55"/></pattern>
+<linearGradient id="redg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E5122B"/><stop offset="1" stop-color="#A30B1C"/></linearGradient>
+<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFF1F2"/></linearGradient>
+<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#E5122B"/><stop offset="1" stop-color="#E5122B" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><polygon points="10.0,12.0 20.0,12.0 14.0,48.0 4.0,48.0" fill="url(#redg)"/><polygon points="24.0,12.0 28.0,12.0 22.0,48.0 18.0,48.0" fill="#E5122B" opacity=".5"/><text x="40" y="42" font-size="28" font-weight="800" fill="#15151B" letter-spacing="-.7">Tech Stack</text><text class="m" x="894" y="40" text-anchor="end" font-size="12" fill="#6A6A78">tools I work with</text><rect x="4" y="57" width="892" height="1.5" fill="url(#ul)" opacity=".7"/></svg>

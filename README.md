@@ -1,12 +1,16 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
   <img src="./assets/banner-dark.svg" width="100%" alt="Mohammed Roshan, Full Stack Developer"/>
 </picture>
 
-</div>
+<br/>
+
+I build products end to end, from database schema to deployed UI, with clean, production-style code rather than demo-ready code. Lately that means pairing the **MERN** stack with **Python / FastAPI** and **LLM APIs** to build systems that reason about data, not just display it.
+
+B.E. in Computer Science & Engineering (2025) from Rural Engineering College, Hulkoti, Gadag. 150+ DSA problems solved on LeetCode and GeeksforGeeks. Currently looking for a **Frontend / Full Stack Developer** role.
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h-work-dark.svg">
@@ -16,7 +20,7 @@
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td rowspan="2" width="50%" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/md-rosh02/laborloom">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-laborloom-dark.svg">
@@ -36,7 +40,7 @@
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/md-rosh02/threadco">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-threadco-dark.svg">
@@ -45,9 +49,7 @@
 </picture>
 </a>
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 <a href="https://github.com/md-rosh02/chess">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/plate-chess-dark.svg">
@@ -74,7 +76,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg">
-  <img src="./assets/stack-dark.svg" width="100%" alt="Tech stack"/>
+  <img src="./assets/stack-dark.svg" width="100%" alt="Tech stack: frontend, backend, data and AI, devops"/>
 </picture>
 
 <picture>
@@ -92,7 +94,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg">
-  <img src="./assets/experience-dark.svg" width="100%" alt="Experience and education"/>
+  <img src="./assets/experience-dark.svg" width="100%" alt="Internships at Rooman Technologies and Tech Fortune Technologies, B.E. in Computer Science and Engineering 2025"/>
 </picture>
 
 <picture>
@@ -110,7 +112,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/numbers-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/numbers-light.svg">
-  <img src="./assets/numbers-dark.svg" width="100%" alt="Numbers"/>
+  <img src="./assets/numbers-dark.svg" width="100%" alt="150+ DSA problems, 2 internships, 4 projects, B.E. CSE 2025"/>
 </picture>
 
 <br/>
@@ -123,9 +125,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-7A67F5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/md-rosh02)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F5688B?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-roshan02)
-[![Email](https://img.shields.io/badge/Email-0FA383?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedajeez2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F28A45?style=for-the-badge&logo=vercel&logoColor=white)](https://mini-portfolio-topaz-eta.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-E5122B?style=for-the-badge&logo=github&logoColor=white&labelColor=111116)](https://github.com/md-rosh02)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E5122B?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111116)](https://linkedin.com/in/mohammed-roshan02)
+[![Email](https://img.shields.io/badge/Email-E5122B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111116)](mailto:mohammedajeez2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E5122B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111116)](https://mini-portfolio-topaz-eta.vercel.app/)
 
 </div>
