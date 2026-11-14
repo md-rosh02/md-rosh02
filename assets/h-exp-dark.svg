@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="68" viewBox="0 0 900 68" fill="none">
 <style>
-text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
-@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
-.pl{animation:pulse 2s ease-in-out infinite}
-.bob{animation:bob 5s ease-in-out infinite}
+text{font-family:Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+@keyframes fall{0%{transform:translate(0,-30px) rotate(0deg);opacity:0}8%{opacity:1}90%{opacity:.9}100%{transform:translate(-220px,520px) rotate(540deg);opacity:0}}
+@keyframes fly{from{transform:translateX(-70px)}to{transform:translateX(990px)}}
+@keyframes drift{0%,100%{transform:translateX(-30px)}50%{transform:translateX(30px)}}
+@keyframes sway{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(5deg)}}
+@keyframes breathe{0%,100%{opacity:.85}50%{opacity:1}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.petal{animation:fall 12s linear infinite} .bird{animation:fly 30s linear infinite} .mist{animation:drift 14s ease-in-out infinite}
+.scarf{animation:sway 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:100% 50%} .glow{animation:breathe 6s ease-in-out infinite} .pl{animation:pulse 1.6s ease-in-out infinite}
 
 </style>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B8A9FF"/><stop offset="1" stop-color="#FFB4A2"/></linearGradient></defs><rect x="4" y="14" width="6" height="34" rx="3" fill="url(#g)"/><text x="26" y="34" font-size="26" font-weight="800" fill="#EDEDF7" letter-spacing="-.5">Experience &amp; Education</text><text class="m" x="26" y="54" font-size="12" fill="#8E91AE">where I've learned and shipped</text><path class="tw" d="M870,23 Q870,32 879,32 Q870,32 870,41 Q870,32 861,32 Q870,32 870,23Z" fill="#FFB4A2" opacity="0.9"/><path class="tw2" d="M846,15 Q846,20 851,20 Q846,20 846,25 Q846,20 841,20 Q846,20 846,15Z" fill="#B8A9FF" opacity="0.8"/></svg>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#06050A"/><stop offset="0.5" stop-color="#190913"/><stop offset="0.8" stop-color="#4F0E1F"/><stop offset="1" stop-color="#A8162B"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF7A88"/><stop offset="1" stop-color="#D01630"/></linearGradient>
+<linearGradient id="redg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#C1121F"/></linearGradient>
+<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#FF3B4E" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter></defs><mask id="im"><rect width="40" height="40" fill="#fff"/><rect y="21" width="40" height="3" fill="#000"/><rect y="28" width="40" height="5" fill="#000"/></mask><g transform="translate(8,12)"><circle cx="20" cy="20" r="17" fill="#FF3B4E" opacity=".25" filter="url(#soft)"/><circle cx="20" cy="20" r="14" fill="url(#sun)" mask="url(#im)"/></g><text x="54" y="42" font-size="28" font-weight="800" fill="#F4EEF0" letter-spacing="-.7">Journey</text><text class="m" x="894" y="40" text-anchor="end" font-size="12" fill="#A39098">internships &amp; education</text><rect x="4" y="60" width="892" height="1.5" fill="url(#ul)" opacity=".75"/></svg>

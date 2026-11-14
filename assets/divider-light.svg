@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="26" viewBox="0 0 900 26" fill="none">
 <style>
-text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
-@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
-@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
-.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
-.pl{animation:pulse 2s ease-in-out infinite}
-.bob{animation:bob 5s ease-in-out infinite}
+text{font-family:Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
+@keyframes fall{0%{transform:translate(0,-30px) rotate(0deg);opacity:0}8%{opacity:1}90%{opacity:.9}100%{transform:translate(-220px,520px) rotate(540deg);opacity:0}}
+@keyframes fly{from{transform:translateX(-70px)}to{transform:translateX(990px)}}
+@keyframes drift{0%,100%{transform:translateX(-30px)}50%{transform:translateX(30px)}}
+@keyframes sway{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(5deg)}}
+@keyframes breathe{0%,100%{opacity:.85}50%{opacity:1}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.petal{animation:fall 12s linear infinite} .bird{animation:fly 30s linear infinite} .mist{animation:drift 14s ease-in-out infinite}
+.scarf{animation:sway 2.2s ease-in-out infinite;transform-box:fill-box;transform-origin:100% 50%} .glow{animation:breathe 6s ease-in-out infinite} .pl{animation:pulse 1.6s ease-in-out infinite}
 
 </style>
-<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7B68EE" stop-opacity="0"/><stop offset=".5" stop-color="#7B68EE"/><stop offset="1" stop-color="#F08A7A" stop-opacity="0"/></linearGradient></defs><rect x="60" y="13.5" width="780" height="1.5" rx=".75" fill="url(#l)" opacity=".55"/><circle cx="450" cy="14" r="13" fill="#FBF9FF"/><path class="tw" d="M450,4 Q450,14 460,14 Q450,14 450,24 Q450,14 440,14 Q450,14 450,4Z" fill="#F08A7A" opacity="1"/><path class="tw2" d="M420,10 Q420,14 424,14 Q420,14 420,18 Q420,14 416,14 Q420,14 420,10Z" fill="#7B68EE" opacity="0.8"/><path class="tw2" d="M480,10 Q480,14 484,14 Q480,14 480,18 Q480,14 476,14 Q480,14 480,10Z" fill="#7B68EE" opacity="0.8"/></svg>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FFF8F1"/><stop offset="0.5" stop-color="#FFE5DB"/><stop offset="0.8" stop-color="#FFB9BA"/><stop offset="1" stop-color="#FF8092"/></linearGradient>
+<linearGradient id="sun" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF5A6E"/><stop offset="1" stop-color="#C4102B"/></linearGradient>
+<linearGradient id="redg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#D8102B"/><stop offset="1" stop-color="#9E0B22"/></linearGradient>
+<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#D8102B"/><stop offset="1" stop-color="#D8102B" stop-opacity="0"/></linearGradient>
+<filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="40"/></filter>
+<filter id="soft" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="6"/></filter></defs><rect x="60" y="12.2" width="780" height="1" fill="#F0D9DD"/><path d="M450,3 Q450,13 460,13 Q450,13 450,23 Q450,13 440,13 Q450,13 450,3Z" fill="#D8102B"/><circle cx="420" cy="13" r="2.5" fill="#D8102B" opacity=".6"/><circle cx="480" cy="13" r="2.5" fill="#D8102B" opacity=".6"/></svg>
