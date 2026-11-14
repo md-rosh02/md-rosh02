@@ -1,18 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="22" viewBox="0 0 900 22" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28" fill="none">
 <style>
-text{font-family:Inter,'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,monospace}
-@keyframes ember{0%{transform:translateY(0);opacity:0}15%{opacity:.9}100%{transform:translateY(-120px);opacity:0}}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
-@keyframes breathe{0%,100%{transform:scale(1)}50%{transform:scale(1.05)}}
-@keyframes slash{0%{stroke-dashoffset:300;opacity:1}12%{stroke-dashoffset:0;opacity:1}30%{stroke-dashoffset:0;opacity:0}100%{stroke-dashoffset:0;opacity:0}}
-.ember{animation:ember 5s linear infinite} .pl{animation:pulse 1.6s ease-in-out infinite}
-.br{animation:breathe 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
-.slash{animation:slash 7s ease-out infinite}
+text{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif} .m{font-family:'SF Mono','JetBrains Mono',Menlo,Consolas,monospace}
+@keyframes tw{0%,100%{opacity:.25;transform:scale(.8)}50%{opacity:1;transform:scale(1.1)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+.tw{animation:tw 3.2s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.tw2{animation:tw 4.4s ease-in-out infinite .8s;transform-box:fill-box;transform-origin:center}
+.pl{animation:pulse 2s ease-in-out infinite}
+.bob{animation:bob 5s ease-in-out infinite}
 
 </style>
-<defs><pattern id="ht" width="9" height="9" patternUnits="userSpaceOnUse"><circle cx="4.5" cy="4.5" r="1.9" fill="#FF3B4E" fill-opacity=".55"/></pattern>
-<linearGradient id="redg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#C1121F"/></linearGradient>
-<linearGradient id="cg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0E0E13"/><stop offset="1" stop-color="#1A0B10"/></linearGradient>
-<linearGradient id="ul" x1="0" x2="1"><stop offset="0" stop-color="#FF3B4E"/><stop offset="1" stop-color="#FF3B4E" stop-opacity="0"/></linearGradient>
-<filter id="blur" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="40"/></filter>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect x="60" y="10.5" width="780" height="1" fill="#2A2A34"/><polygon points="420.0,6.0 480.0,6.0 472.0,16.0 412.0,16.0" fill="url(#redg)"/></svg>
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#B8A9FF" stop-opacity="0"/><stop offset=".5" stop-color="#B8A9FF"/><stop offset="1" stop-color="#FFB4A2" stop-opacity="0"/></linearGradient></defs><rect x="60" y="13.5" width="780" height="1.5" rx=".75" fill="url(#l)" opacity=".55"/><circle cx="450" cy="14" r="13" fill="#12121C"/><path class="tw" d="M450,4 Q450,14 460,14 Q450,14 450,24 Q450,14 440,14 Q450,14 450,4Z" fill="#FFB4A2" opacity="1"/><path class="tw2" d="M420,10 Q420,14 424,14 Q420,14 420,18 Q420,14 416,14 Q420,14 420,10Z" fill="#B8A9FF" opacity="0.8"/><path class="tw2" d="M480,10 Q480,14 484,14 Q480,14 480,18 Q480,14 476,14 Q480,14 480,10Z" fill="#B8A9FF" opacity="0.8"/></svg>
